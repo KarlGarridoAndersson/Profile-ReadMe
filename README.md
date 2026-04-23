@@ -1,4 +1,4 @@
-# Profile-ReadMe
+# Profile-README
 # Karl Garrido Andersson
 
 Mathematical Modeling & Algorithmic Optimization

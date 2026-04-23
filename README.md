@@ -65,5 +65,5 @@ Optimization, Algorithms, Modeling
 ## Contact
 
 [karl.garrido@centrale.centralelille.fr](mailto:karl.garrido@centrale.centralelille.fr)
-[www.linkedin.com/in/karl-garrido-andersson]
+www.linkedin.com/in/karl-garrido-andersson
 

@@ -4,15 +4,16 @@
 
 **Modélisation Mathématique & Optimisation Algorithmique** 
 
+------
 
-## 🔬 À propos
+## À propos
 
 Je conçois des algorithmes et des cadres mathématiques pour résoudre des problèmes au sein de systèmes complexes. 
 
 Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisation structurelle, avec un équilibre constant entre rigueur théorique et applications concrètes.
 
 
-## 📊 Recherche & Projets Scientifiques
+## Recherche & Projets Scientifiques
 
 ### Optimisation de Pavage (Polyominos)
 *Optimisation discrète de la compacité géométrique par des méthodes d'assemblage heuristiques.*
@@ -34,21 +35,21 @@ Mes travaux portent sur l'optimisation, les systèmes dynamiques et la modélisa
 [Voir le projet → GitHub](https://github.com/votre-utilisateur/dynamic-system-health-prediction) | [Lire l'article → PDF](https://github.com/votre-utilisateur/dynamic-system-health-prediction/blob/main/paper/health_prediction.pdf)
 
 
-## 💼 Expériences Clés
+## Expériences Clés
 
 * **Chef de Projet — Caméra Thermique 360°** : Responsable de division pour la conception d'un système d'imagerie thermique complet.
 * **Stage Industriel — AFT Micromacinazione** : Immersion dans les processus industriels de précision.
 * **Enseignement & Tutorat** : Soutien académique en mathématiques, informatique et anglais (niveaux secondaire et supérieur).
 
 
-## 🛠 Compétences
+## Compétences
 
 * **Programmation :** Python, C, OCaml, Java, MatLab
 * **Domaines :** Optimisation, Algorithmique, Modélisation Mathématique, Analyse de données
 * **Langues :** Français (Maternel), Anglais (C1), Espagnol (A2)
 
 
-## 📫 Contact
+## Contact
 
 * **Email :** [karl.garrido@centrale.centralelille.fr](mailto:karl.garrido@centrale.centralelille.fr)
 * **LinkedIn :** [linkedin.com/in/karl-garrido-andersson](https://www.linkedin.com/in/karl-garrido-andersson)
